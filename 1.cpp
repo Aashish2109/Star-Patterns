@@ -16,3 +16,14 @@ int main()
         cout<<endl;
     }
 }
+//OUTPUT
+// Enter the number of rows :
+// 5
+// Enter the number of columns :
+// 5
+
+//  *  *  *  *  * 
+//  *  *  *  * 
+//  *  *  * 
+//  *  * 
+//  *
